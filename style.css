@@ -1,0 +1,39 @@
+body{
+		background-color: #2EF8CF;
+}
+
+table{
+		background-color: white;
+		border-radius: 20px;
+		font-family: 'Arial';
+}
+
+div{
+		border-bottom: 1px 
+		solid #000000;
+		margin: 60px;
+}
+
+#iUser{
+		border: none;
+		width=  100%;
+		outline: none;
+		background: none;
+		font-size: 16px
+}
+
+	
+#iPass{
+		border: none;
+		width=100%;
+		outline: none;
+		background: none;
+		font-size: 16px;
+}
+
+.bot{
+		background-image: linear-gradient(#2EF8CF, #79FFFF);
+		border-radius: 8px;
+		width: 200px;
+		height: 40px;
+}
